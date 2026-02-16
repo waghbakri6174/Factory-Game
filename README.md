@@ -50,7 +50,7 @@ There are **no second chances**.
 
 ## 🏆 Achievements
 
-- **DOSE MAMA**  
+- **DOSE**  
   Unlock by choosing the correct dialogue with Dose.
 
 ---
