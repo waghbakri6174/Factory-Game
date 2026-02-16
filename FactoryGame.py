@@ -204,10 +204,12 @@ def true_ending():
     else:
         print("You remember Malik. His sacrifice saved everything.")
     if achievement_dose:
-        print("🏆 Secret Achievement: DOSE MAMA 🏆")
+        print("🏆 Secret Achievement: DOSE🏆")
     print("\n🏆 YOU WIN 🏆")
     exit()
 
 
 # ===== START GAME =====
 q1()
+
+
